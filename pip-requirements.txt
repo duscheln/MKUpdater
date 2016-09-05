@@ -1,0 +1,6 @@
+requests
+bs4
+tablib
+dateutils
+lxml
+PyQt5
