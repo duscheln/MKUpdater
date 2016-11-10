@@ -93,7 +93,6 @@ __pycache__
 files/.*xls
 update
 *.bak
-ui/*.py
 intouchupdater.py
 unitclubupdater.py
 credentials.py
